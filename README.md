@@ -16,7 +16,7 @@ El término **reproductibilidad** (o _reproducibility_, en inglés) se refiere a
  
  ![Visitar el link](https://gf0604-procesamientodatosgeograficos.github.io/2021i-tarea-01/img/ZiemannEtAlFig1.png)
  
- ### **Bibliografía** 
+ ## **Bibliografía** 
  
  Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K., Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). Open Science Training Handbook. Zenodo. https://doi.org/10.5281/ZENODO.1212496 
  
