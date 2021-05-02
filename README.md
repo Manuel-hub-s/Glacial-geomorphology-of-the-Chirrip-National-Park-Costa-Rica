@@ -14,7 +14,7 @@ El término **reproductibilidad** (o _reproducibility_, en inglés) se refiere a
  
  Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016)
  
- [Visitar el link] (Ziemann, M., Eren, Y., & El-Osta, A. (2016). Gene name errors are widespread in the scientific literature. Genome Biology, 17(1), 177. https://doi.org/10.1186/s13059-016-1044-7)
+ ! [Visitar el link] (https://gf0604-procesamientodatosgeograficos.github.io/2021i-tarea-01/img/ZiemannEtAlFig1.png)
  
  ### **Bibliografía** 
  
