@@ -12,6 +12,7 @@
 * incendios forestales
 
 
+
  Figura 1.  Fuente: Geología desde Ávila
  
  ![Visitar el link](https://geolodiaavila.files.wordpress.com/2019/11/figura1.png?w=1024.png)
