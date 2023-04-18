@@ -16,7 +16,9 @@ La siguiente figura presente un ejemplo de caracterización dendroclimática.
  Figura 1.  Fuente: Geología desde Ávila
  
  ![Visitar el link](https://geolodiaavila.files.wordpress.com/2019/11/figura1.png?w=1024.png)
- Podemos ver que los cambios climáticos se ven evidenciados en la constitución de los anillos de los árboles y sus diámetros. Dichas variaciones podrían correlacionarse con eventos de gran magnitud u otros más localizados. 
+
+Podemos ver que los cambios climáticos se ven evidenciados en la constitución de los anillos de los árboles y sus diámetros. Dichas variaciones podrían correlacionarse con eventos de gran magnitud u otros más localizados. 
+ 
  ## **Bibliografía** 
  
 _Román, A. Q. (2023). La dendrogeomorfología como una herramienta para representar procesos hidrogeomorfológicos en los trópicos. Revista Cartográfica, (106), 35-51._
