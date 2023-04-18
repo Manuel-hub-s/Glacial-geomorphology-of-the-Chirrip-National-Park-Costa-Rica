@@ -8,7 +8,7 @@
 
  Figura 1.  Fuente: (Ziemann et al., 2016)
  
- ![Visitar el link](https://www.researchgate.net/profile/Matthew-Lachniet/publication/223722871/figure/fig3/AS:304741851648000@1449667527038/Paleoglacier-reconstructions-in-Chirripo-Park-Cordillera-de-Talamanca-Costa-Rica.png.png)
+ ![Visitar el link](https://www.researchgate.net/profile/Matthew-Lachniet/publication/223722871/figure/fig3/AS:304741851648000@1449667527038/Paleoglacier-reconstructions-in-Chirripo-Park-Cordillera-de-Talamanca-Costa-Rica.png)
  
  ## **Bibliografía** 
  
