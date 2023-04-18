@@ -1,16 +1,22 @@
-#  **Glacial-geomorphology-of-the-Chirripó-National-Park-Costa-Rica**
+#  **Dendrogeomorfología como herramienta**
 
-## **Abstract**
-
-
-#### **Several regions of tropical America show imprints of past glacial activity. These relict landforms can support the understanding of past climate conditions, such as during the Last Glacial Maximum (LGM), and the implications that these paleoclimatic conditions could have had on landscape change. Here, we present and analyze glacial morphologies for the Chirripó National Park in Costa Rica based on aerial imagery (1:25,000), detailed Digital Elevation Models, geomorphic mapping, as well as geomorphic assessments in the field to determine and validate landforms. This study adds valuable insights into the reconstruction of the maximum expansion of tropical glaciation during the LGM in Costa Rica and into tropical America glacial landscapes in general.**
+## **Aspectos generales**
 
 
- Figura 1.  Fuente: (Ziemann et al., 2016)
+#### **A raíz de los efectos adversos de la crisis climática y la degradación de los ecosistemas producto de los cambios antropogénicos, se plantea el estudio de los anillos del tronco de ciertas especies de árboles para su procesamiento y análisis con el objetivo de recolectar datos hidrogemórficos con la ayuda de sensores remotos y evaluar los cambios metereológicos en el tiempo. Esta metodología busca contribuir a la gestión integrada del riesgo a desastres, estableciendo períodos de recurrencia o retorno de dichos eventos.**
+
+
+ Figura 1.  Fuente: 
  
- ![Visitar el link](https://www.researchgate.net/profile/Matthew-Lachniet/publication/223722871/figure/fig3/AS:304741851648000@1449667527038/Paleoglacier-reconstructions-in-Chirripo-Park-Cordillera-de-Talamanca-Costa-Rica.png)
+ ![Visitar el link](.png)
  
  ## **Bibliografía** 
  
-_Quesada-Román, A., Ballesteros-Cánovas, J. A., Stoffel, M., & Zamorano, J. J. (2019). Glacial geomorphology of the Chirripó National Park, Costa Rica. Journal of Maps, 15(2), 538–545. https://doi.org/10.1080/17445647.2019.1625822_
+_Román, A. Q. (2023). La dendrogeomorfología como una herramienta para representar procesos hidrogeomorfológicos en los trópicos. Revista Cartográfica, (106), 35-51._
+
+_Gómez Gómez, P. P. (2019). Análisis dendroclimático en el trópico húmedo de Centroamérica._
+
+_Quesada-Roman, A. (2023). Dendrogeomorphology as a tool to depict hydrogeomorphic processes in the tropics. Revista Cartográfica, (106), 35-51._
+
+_Quesada-Román, A. (2022). La dendrogeomorfología como una herramienta para representar procesos hidrogeomorfológicos en los trópicos. Revista Cartográfica, (106), 35–51._
  
