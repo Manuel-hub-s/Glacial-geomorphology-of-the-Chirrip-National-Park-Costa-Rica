@@ -12,4 +12,5 @@
  
  ## **Bibliografía** 
  
+Quesada-Román, A., Ballesteros-Cánovas, J. A., Stoffel, M., & Zamorano, J. J. (2019). Glacial geomorphology of the Chirripó National Park, Costa Rica. Journal of Maps, 15(2), 538–545. https://doi.org/10.1080/17445647.2019.1625822
  
