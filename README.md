@@ -17,7 +17,9 @@ La siguiente figura presente un ejemplo de caracterización dendroclimática.
  
  ![Visitar el link](https://geolodiaavila.files.wordpress.com/2019/11/figura1.png?w=1024.png)
 
-Podemos ver que los cambios climáticos se ven evidenciados en la constitución de los anillos de los árboles y sus diámetros. Dichas variaciones podrían correlacionarse con eventos de gran magnitud u otros más localizados. El mapeo gracias a estos datos, permite también datar eventos como inundaciones o deslizamientos, que afectan la actividad humana desde muchas perspectivas. 
+Podemos ver que los cambios climáticos se ven evidenciados en la constitución de los anillos de los árboles y sus diámetros. Dichas variaciones podrían correlacionarse con eventos de gran magnitud u otros más localizados. El mapeo gracias a estos datos, permite también datar eventos como inundaciones o deslizamientos, que afectan la actividad humana desde muchas perspectivas.
+
+
  
  ## **Bibliografía** 
  
